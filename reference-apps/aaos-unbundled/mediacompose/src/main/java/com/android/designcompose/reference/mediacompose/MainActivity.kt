@@ -63,12 +63,12 @@ enum class NavButtonType {
     Unselected,
 }
 
-// Media 1 7rvM6aVWe0jZCm7jhO9ITx
-// Media 2 S3n4mhNgoHzNxCCHhmrVcR
-// Media 4 5n0LhOQ6wOiDxrH0YUVhJS
-// Media 5 dui99iAKZ273s7RN11Z9Ak
-// Media Nova 2DQtQOf6U26mA8dqBie3gT
-@DesignDoc(id = "7rvM6aVWe0jZCm7jhO9ITx", customizationInterfaceVersion = "0.1")
+// Media 1 WgIiHt32kRMWBCVdQlODgW
+// Media 2 QQ99NdHWvzboq8yKBUHjJl
+// Media 4 Qc2XgBAFWsxsPnacQqZFxi
+// Media 5 74iFrRy5hgd7m8u8Uy6zEU
+// Media Nova sGuovlTqLKmZpthO2XWO7j
+@DesignDoc(id = "WgIiHt32kRMWBCVdQlODgW", customizationInterfaceVersion = "0.1")
 interface CenterDisplay {
     @DesignComponent(node = "#stage", isRoot = true)
     fun MainFrame(
